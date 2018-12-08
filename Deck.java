@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package homework5;
+package homework6;
 
 import homework5.Card;
 import homework5.DestinationCard;
