@@ -1,4 +1,4 @@
-package homework5;
+package homework6;
 
 import java.util.List;
 import javax.swing.*;
